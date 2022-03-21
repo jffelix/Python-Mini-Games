@@ -12,7 +12,7 @@ while True:
     guessedNumber = input("Type your number here.")
 
     if (guessedNumber.isdigit()):
-        randomNumber = int(random.randrange(1, 5))
+        randomNumber = int(random.randrange(1, 6))
 
         if int(guessedNumber) == randomNumber:
             print("You got it right!")
