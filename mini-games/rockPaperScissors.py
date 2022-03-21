@@ -11,6 +11,8 @@ while True:
 
     choices = ['r', 'p', 's']
 
+    print("Your turn")
+
     playerChoice = input("Type 'r', 'p', or 's' and hit 'Enter'.")
 
     randomNum = random.randrange(0, 3)
@@ -40,6 +42,7 @@ while True:
     response = input("Type 'y' or 'n'.")
 
     if response.lower() == "y":
+        print("_____________________________________________________")
         continue
     elif response.lower() == "n":
         print("Thanks " + name +  " for playing!")
