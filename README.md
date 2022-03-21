@@ -5,6 +5,7 @@ Welcome to my mini-games application! This project is intended to be a library o
 ## Notable Features
 - Number Guess
 - Random Dice Roll
+- Rock, Paper, Scissors
 
 ## How to run the application
 - Fork this repository into your GitHub account
