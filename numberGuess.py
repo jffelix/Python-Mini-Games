@@ -16,4 +16,4 @@ if (guessedNumber.isdigit()):
     elif int(guessedNumber) != randomNumber:
         print("Wrong, it was actually ", randomNumber, ", but good try!")
 else:
-    print("Error! You need to input a number")
+    print("Error! You need to input a number!")
