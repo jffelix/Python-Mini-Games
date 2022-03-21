@@ -6,7 +6,7 @@ print("Press 'Enter' to roll the dice.")
 while True:
     input("Hit Enter")
 
-    randomNum = random.randrange(1, 6)
+    randomNum = random.randrange(1, 7)
 
     if randomNum == 1:
         print("[               ]")
