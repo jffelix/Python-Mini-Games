@@ -9,7 +9,7 @@ print("I am thinking of a number between 1 and 10. What number is it?")
 guessedNumber = input("Type your number here.")
 
 if (guessedNumber.isdigit()):
-    randomNumber = int(random.randrange(1, 10))
+    randomNumber = int(random.randrange(1, 5))
 
     if int(guessedNumber) == randomNumber:
         print("You got it right!")
