@@ -11,4 +11,4 @@ Welcome to my mini-games application! This project is intended to be a library o
 - Run "git clone" command in Terminal to copy the repository to your personal computer.
 - Open VS Code with your cloned repository.
 - Download the Python extension in VS Code
-- Right-click any of the python files and select either "Run Current File in Interactive Window" or "Run Python File in Terminal"
+- Right-click any of the files in the "mini-games" folder and select either "Run Current File in Interactive Window" or "Run Python File in Terminal"
